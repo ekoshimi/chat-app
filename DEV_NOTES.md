@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Updated dependencies to latest stable versions
 - Ran linter, applied auto-fixes
+
+## 2026-07-01
+- Tested build on clean environment
+- Added basic usage examples to README
