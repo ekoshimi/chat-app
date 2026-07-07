@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-01
 - Tested build on clean environment
 - Added basic usage examples to README
+
+## 2026-07-08
+- Resolved TODO items from previous session
